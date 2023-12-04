@@ -16,13 +16,12 @@ We are advising retail real estate investors in understanding different prices b
 - Second, we will correct our model assumptions.
 - Lastly, we will create model grouped on ZIP codes.
 
-<br>
 ### Business and Data Understanding
 ***
 Our Data contains information of home sales in kings county. The data has a mixture of numerical and categorical data. It contains 8 object, 5 float, and 10 integer types of features. The data contains 30,155 observations of housing data. We dropped 44 observations that had missing value for a total of 30,111 observations. 
 <br>
 As the data extends only about a year of homesales we will not utilize a time series analysis but focus more on linear regression. The dataset includes features such as, lat, lon that will be used to reverse geocode ZIP code information. We want to use these features to understand the average price of ZIP codes and understand average home in each area to understand what ZIP code we would like to purchase our property in. We will also use our model to price homes within those ZIP codes to find undervalued properties. This is all provided by King County as an effort to make data more accessible. From the website __[King County website](https://kingcounty.gov/en/legacy/services/data)__:
->"King County is committed to making data open, accessible and transparent. The following data resources are designed to increase public access to high value, machine readable datasets from various departments in King County government."
+> "King County is committed to making data open, accessible and transparent. The following data resources are designed to increase public access to high value, machine readable datasets from various departments in King County government."
 
 You can review other available datasets on their website.
 
