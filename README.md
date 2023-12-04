@@ -97,8 +97,8 @@ when we look at our regular model we can get some good interpretation taking eve
     - If waterfront is true holding all else held at 0 the house price is expected to increase \$285,700.00.
     - For every 1 unit increase in view holding all else at 0 the house price is expected to increase \$75,750.00.
 - The majority of ZIP code coefficients compared to 98001 are statistically significant:
-    - ZIPCODE_98004 has an increase of /$1,260,000.00 when all other variables are held at 0.
-    - ZIPCODE_98422 has an decrease of /$922,400.00 when all other variables are held at 0.    
+    - ZIPCODE_98004 has an increase of \$1,260,000.00 when all other variables are held at 0.
+    - ZIPCODE_98422 has an decrease of \$922,400.00 when all other variables are held at 0.    
 
 ### Recommendations
 Based on the data we gathered, ZIP code and square footage of living space is the most important factor when it comes to the value of real estate property.
