@@ -34,7 +34,7 @@ The stakeholder for this project are investors who are looking for undervalued p
 
 We looked at the histogram of the target and predictor variables to check its shape for normality assumption and to determine whether there were outliers that could be affecting our data. It was decided to remove any outliers for the target variable, 'price'.
 
-![Alt Image text](visualizations/corr_matrix.jpg)
+![Alt Image text](visualizations/corr_matrix.png)
 
 Only relevant information for the question as well as features that would provide us useful information is kept, the columns below were removed.
 
