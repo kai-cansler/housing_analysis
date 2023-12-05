@@ -3,6 +3,7 @@
 **Author**: Kai Cansler
 <br>
 ![Alt Image text](visualizations/home.jpg)
+<br>
 Photo by tierramallorca on Unsplash
 <br>
 ## Overview
